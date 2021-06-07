@@ -59,7 +59,7 @@ const Agendamento = ({ user }: IAgendamentoProps) => {
           {schedule ? (
             <ScheduleBox schedule={schedule} user={user} />
           ) : (
-            <UnitySchedulesList user={user} />
+            <UnitySchedulesList />
           )}
         </AgendamentoContainer>
       </DefaultLayout>

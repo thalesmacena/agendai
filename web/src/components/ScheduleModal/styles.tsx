@@ -22,7 +22,7 @@ export const Modal = styled.div`
   width: 100%;
   max-width: 30rem;
   border-radius: 5px;
-  box-shadow: ${({ theme }) => theme.boxShadowModal};
+  box-shadow: ${({ theme }) => theme.modalBoxShadow};
   text-align: center;
   position: relative;
 

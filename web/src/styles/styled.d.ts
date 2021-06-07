@@ -20,7 +20,7 @@ interface Theme {
   placeholder: string;
   boxShadow: string;
   backgroundModal: string;
-  boxShadowModal: string;
+  modalBoxShadow: string;
   borderModal: string;
   backgroundOverlay: string;
 }

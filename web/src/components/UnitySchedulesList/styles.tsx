@@ -7,7 +7,7 @@ export const UnityScheduleListContainer = styled.div`
 
 export const UnityContainer = styled.div`
   background: ${({ theme }) => theme.backgroundModal};
-  box-shadow: ${({ theme }) => theme.boxShadowModal};
+  box-shadow: ${({ theme }) => theme.modalBoxShadow};
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 10px;
