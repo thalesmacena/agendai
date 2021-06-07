@@ -1,0 +1,186 @@
+{
+  "ufrj": [
+    {
+      "almoco": {
+        "id": 1,
+        "day": "02/06/2021",
+        "weekday": "Domingo",
+        "entrada": "Acelga refogada",
+        "principal": "Carne à Pizzaiolo",
+        "vegano": "Kafta de soja",
+        "guarnicao": "Abóbora cozida",
+        "acompanhamento": "Arroz branco, Feijão preto",
+        "sobremesa": "Maçã",
+        "refresco": "----"
+      },
+      "janta": {
+        "id": 1,
+        "day": "02/06/2021",
+        "weekday": "Domingo",
+        "entrada": "Acelga Frita",
+        "principal": "Carne Suina",
+        "vegano": "Kafta de soja",
+        "guarnicao": "Abóbora cozida",
+        "acompanhamento": "Arroz branco, Feijão Branco",
+        "sobremesa": "Maçã",
+        "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+      "id": 2,
+      "day": "03/06/2021",
+      "weekday": "Segunda-Feira",
+      "entrada": "Brócolis refogado",
+      "principal": "Filé de sobrecoxa",
+      "vegano": "Bolonhesa de lentilha",
+      "guarnicao": "Purê de cenoura",
+      "acompanhamento": "Arroz branco, Feijão preto",
+      "sobremesa": "Doce de leite",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 2,
+        "day": "03/06/2021",
+        "weekday": "Segunda-Feira",
+        "entrada": "Brócolis refogado",
+        "principal": "Filé de sobrecoxa",
+        "vegano": "Bolonhesa de lentilha",
+        "guarnicao": "Purê de cenoura",
+        "acompanhamento": "Arroz branco, Feijão preto",
+        "sobremesa": "Doce de leite",
+        "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+        "id": 3,
+      "day": "04/06/2021",
+      "weekday": "Terça-Feira",
+      "entrada": "Ratatouille",
+      "principal": "Bife de panela",
+      "vegano": "Proteína de soja moída com azeitonas",
+      "guarnicao": "Espaguete ao alho e óleo",
+      "acompanhamento": "Arroz branco, Feijão preto",
+      "sobremesa": "Banana",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 3,
+        "day": "04/06/2021",
+        "weekday": "Terça-Feira",
+        "entrada": "Ratatouille",
+        "principal": "Bife de panela",
+        "vegano": "Proteína de soja moída com azeitonas",
+        "guarnicao": "Espaguete ao alho e óleo",
+        "acompanhamento": "Arroz branco, Feijão preto",
+        "sobremesa": "Banana",
+        "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+        "id": 4,
+      "day": "05/06/2021",
+      "weekday": "Quarta-Feira",
+      "entrada": "Repolho roxo refogado",
+      "principal": "Goulash misto",
+      "vegano": "Curry vegetariano",
+      "guarnicao": "Farofa de alho poró",
+      "acompanhamento": "Arroz branco, Feijão preto",
+      "sobremesa": "Laranja",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 4,
+      "day": "05/06/2021",
+      "weekday": "Quarta-Feira",
+      "entrada": "Repolho roxo refogado",
+      "principal": "Goulash misto",
+      "vegano": "Curry vegetariano",
+      "guarnicao": "Farofa de alho poró",
+      "acompanhamento": "Arroz branco, Feijão preto",
+      "sobremesa": "Laranja",
+      "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+        "id": 5,
+      "day": "06/06/2021",
+      "weekday": "Quinta-Feira",
+      "entrada": "Beterraba cozida",
+      "principal": "Frango ao molho de mel e mostarda",
+      "vegano": "Berinjela recheada com proteína de soja",
+      "guarnicao": "Brócolis refogado",
+      "acompanhamento": "Arroz branco, Feijão vermelho",
+      "sobremesa": "Pera",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 5,
+        "day": "06/06/2021",
+        "weekday": "Quinta-Feira",
+        "entrada": "Beterraba cozida",
+        "principal": "Frango ao molho de mel e mostarda",
+        "vegano": "Berinjela recheada com proteína de soja",
+        "guarnicao": "Brócolis refogado",
+        "acompanhamento": "Arroz branco, Feijão vermelho",
+        "sobremesa": "Pera",
+        "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+        "id": 6,
+      "day": "07/06/2021",
+      "weekday": "Sexta-Feira",
+      "entrada": "Abobrinha refogada",
+      "principal": "Estrogonofe de carne",
+      "vegano": "Bolinho de feijão fradinho com dendê",
+      "guarnicao": "Batata doce rústica com alecrim",
+      "acompanhamento": "Arroz branco, Feijão preto",
+      "sobremesa": "Tangerina",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 6,
+        "day": "07/06/2021",
+        "weekday": "Sexta-Feira",
+        "entrada": "Abobrinha refogada",
+        "principal": "Estrogonofe de carne",
+        "vegano": "Bolinho de feijão fradinho com dendê",
+        "guarnicao": "Batata doce rústica com alecrim",
+        "acompanhamento": "Arroz branco, Feijão preto",
+        "sobremesa": "Tangerina",
+        "refresco": "----"
+      }
+    },
+    {
+      "almoco": {
+        "id": 7,
+      "day": "08/06/2021",
+      "weekday": "Sábado",
+      "entrada": "Abóbora com coentro",
+      "principal": "Gourjões de peixe a milanesa",
+      "vegano": "Falafel",
+      "guarnicao": "Couve flor com ervas",
+      "acompanhamento": "Arroz branco, Feijão carioca",
+      "sobremesa": "Laranja",
+      "refresco": "----"
+      },
+      "janta": {
+        "id": 7,
+        "day": "08/06/2021",
+        "weekday": "Sábado",
+        "entrada": "Abóbora com coentro",
+        "principal": "Gourjões de peixe a milanesa",
+        "vegano": "Falafel",
+        "guarnicao": "Couve flor com ervas",
+        "acompanhamento": "Arroz branco, Feijão carioca",
+        "sobremesa": "Laranja",
+        "refresco": "----"
+      }
+    }
+  ]
+}

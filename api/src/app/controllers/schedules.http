@@ -1,0 +1,8 @@
+POST http://localhost:3333/schedules HTTP/1.1
+content-type: application/json
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIzMDU0MDk5LCJleHAiOjE2MjM2NTg4OTl9.ZvJvaHNnI_m9o7iqdcgtu3mzKx71hVt_UY2JPyP-F-0
+
+{
+  "unity": "Centro de Tecnologia",
+  "date": "2021-06-07T05:00:00-10:00"
+}
